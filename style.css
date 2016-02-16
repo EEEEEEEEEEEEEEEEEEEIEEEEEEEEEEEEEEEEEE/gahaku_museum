@@ -3,6 +3,9 @@ font-size:30px;
 width: 1200px;
 margin: auto;
 }
+.menu li{
+list-style: none;
+}
 .art img{
 width: 500px;
 height: 400px;
