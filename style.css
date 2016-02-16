@@ -1,15 +1,36 @@
 header{
-font-size:30px;
-width: 1200px;
-margin: auto;
+    font-size:30px;
+    width: 1200px;
+    margin: auto;
+}
+header h1{
+    float: left;
+    margin-right: 500px;
 }
 .menu li{
-list-style: none;
+    list-style: none;
+    float: left;
+    font-size: 18px;
+    margin-top: 90px;
+    padding: 0 10px 0 10px;
 }
+
 .art img{
-width: 500px;
-height: 400px;
-float: left;
-padding: 0 20px 0 20px;
-margin-top:50px;
+    width: 500px;
+    height: 400px;
+    float: left;
+    padding: 20px 20px 20px 20px;
+    margin-top:50px;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.container p{
+    width: 1200px;
+    float: left;
+}
+.art{
+    width: 1200px;
+    margin: auto;
 }
