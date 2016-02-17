@@ -7,6 +7,9 @@ header h1{
     float: left;
     margin-right: 500px;
 }
+title a{
+    text-decoration: none;
+}
 .menu li{
     list-style: none;
     float: left;
