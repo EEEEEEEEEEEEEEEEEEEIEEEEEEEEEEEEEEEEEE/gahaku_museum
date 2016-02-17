@@ -34,3 +34,7 @@ header h1{
     width: 1200px;
     margin: auto;
 }
+.self-portrait{
+    width: 350px;
+    float: left;
+}
