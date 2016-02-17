@@ -41,4 +41,6 @@ header h1{
 }
 .container p{
     float: left;
+    width: 1200px;
+    margin: auto;
 }
