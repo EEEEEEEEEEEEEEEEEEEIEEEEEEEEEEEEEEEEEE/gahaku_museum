@@ -1,19 +1,18 @@
 header{
     font-size:20px;
-    width: 1200px;
-    height: 200px;
-    margin-bottom: 100px;
+    height: 120px;
     margin: auto;
-    background-color:#fe9f8c;
+    background-color: #fe9f8c;
+    box-shadow: 0 1px 7px #aaaaaa;
+    margin-bottom: 60px;
 }
 body{
-    background-color: 7d9e3c;
+    background-color: oldlace;
     margin: 0;
 }
 h1{
     float: left;
-    margin-right: 500px;
-    margin: 80px 0 0 30px;
+    margin: 40px 0 0 200px;
 }
 .title a{
     text-decoration: none;
@@ -22,11 +21,14 @@ h1{
 a:hover{
     color: blanchedalmond;
 }
+.menu ul{
+    margin-right: 200px;
+}
 .menu li{
     list-style: none;
     float: right;
     font-size: 18px;
-    margin-top: 90px;
+    margin-top: 70px;
     padding-right: 35px;
     padding: 0 10px 0 10px;
 }
@@ -43,18 +45,13 @@ a:hover{
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 15px;
-}
-.self-portrait{
-    width: 350px;
-    float: left;
-    margin-left: 200px;
+    padding: 10px 15px 5px 15px;
 }
 .container img{
     width: 500px;
     border: solid 15px #887788;
     margin: 0;
     clear: both;
-
 }
 .container figcaption{
     clear: both;
@@ -64,6 +61,11 @@ a:hover{
     margin-bottom: 30px;
 }
 p{
+    width: 1200px;
+    margin: auto;
+    line-height: 1.5;
+}
+.container p{
     width: 500px;
     line-height: 1.5;
     clear: both;
